@@ -1,1 +1,2 @@
-  print("cokolwiek")
+print("cokolwiek")
+#popsuty kod
